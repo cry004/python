@@ -1,2 +1,3 @@
-python
-* collection of basic practices. :)
+# python
+--------------------------
+collection of basic practices. :)
